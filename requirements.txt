@@ -1,6 +1,6 @@
 streamlit
 pandas
 plotly.express
-matplotlib.pyplot
+matplotlib
 seaborn
 datetime
